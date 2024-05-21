@@ -3,3 +3,4 @@ adbutils~=0.8.1
 pyfiglet~=0.8.post1
 rich~=4.2.0
 colorama~=0.4.3
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
